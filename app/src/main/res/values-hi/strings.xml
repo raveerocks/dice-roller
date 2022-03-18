@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">पासा फेंकना</string>
+    <string name="roll">फेंको</string>
+    <string name="dice_description">पासा</string>
+</resources>
