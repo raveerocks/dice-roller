@@ -31,7 +31,7 @@ Dice Roller is a simple app built using [Android.](https://www.android.com/) Thi
     }
 }
  ```
- The app looks like the following a real device.
+ The app looks like the following on a real device.
  
  <img align="left" width=396 src="https://github.com/raveerocks/dice-roller/blob/main/screenshot.png" alt="screenshot" />
  
